@@ -29,6 +29,7 @@ body{
     font-size: var(--fs-s);
     font-family: 'Hanken Grotesk', sans-serif;
     font-weight: 500;
+    background-color: #ECF2FF;
 }
 main{
     background: var(--white);
